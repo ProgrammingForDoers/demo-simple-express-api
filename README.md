@@ -1,6 +1,6 @@
 # About
 
-This is an Express API demo that demonstrates the following:
+This is an Express API demo that illustrates the following:
 - Some simple GET endpoints
 - How to access URL path params
 - How to access URL query params
