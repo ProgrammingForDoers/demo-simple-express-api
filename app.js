@@ -49,6 +49,11 @@ app.get("/get-req-greeting", async function(request, response) {
 
 app.post("/users", async function(request, response) {
   /**
+   * NOTE: This will not work unless requests contain the
+   * Content-Type header configured as follows:
+   *
+   * Content-Type: application/json
+   *
    * # POST Request Structure:
    * # Assuming JSON body: { name: "John", age: 25 }
    * var request = {
