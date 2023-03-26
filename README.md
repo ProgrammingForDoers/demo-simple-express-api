@@ -1,3 +1,11 @@
+# About
+
+This is an Express API demo that demonstrates the following:
+- Some simple GET endpoints
+- How to access URL path params
+- How to access URL query params
+- How to access POST request JSON data
+
 # Try It Out Now (No Setup)
 
 Fork this repo on Replit to run the app with no setup:
