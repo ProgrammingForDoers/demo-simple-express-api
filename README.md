@@ -58,4 +58,4 @@ You will need Docker installed
 - **Tail logs:** `bin/services logs`
 - **Restart the stack and tail logs:** `bin/services down; bin/services; bin/services logs`
 
-**Note**: For some kinds of code changes, you may need to restart the stack for them to take effect:
+**Note**: For some kinds of code changes, you may need to restart the stack for them to take effect
